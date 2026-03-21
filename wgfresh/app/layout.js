@@ -3,11 +3,11 @@ import { ThemeProvider } from "../components/ThemeProvider";
 import { AuthProvider } from "../lib/auth";
 
 export const metadata = {
-  title: "WebGrid — The Internet, Organized",
+  title: "WebZarf — The Internet, Organized",
   description: "Discover 76+ top websites organized by category. Social, News, Search, Entertainment, Shopping, Tech & more. Plus a full SEO blog.",
   keywords: "web directory, best websites, social media sites, news websites, internet links",
   openGraph: {
-    title: "WebGrid — The Internet, Organized",
+    title: "WebZarf — The Internet, Organized",
     description: "76+ top websites in a beautiful visual grid.",
     type: "website",
   },
