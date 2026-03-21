@@ -16,7 +16,7 @@ export default function TopBar({ query = "", onSearch }) {
     <>
       <header className="topbar">
         <Link href="/" className="logo">
-          <span className="logo-dot" />web<em>grid</em>
+          <span className="logo-dot" />Web<em>Zarf</em>
         </Link>
 
         <div className="search-wrap">
