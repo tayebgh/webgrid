@@ -51,7 +51,7 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="footer-brand">
           <Link href="/" className="footer-logo">
-            <span className="footer-logo-dot" />web<em>grid</em>
+            <span className="footer-logo-dot" />web<em>zarf</em>
           </Link>
           <p className="footer-tagline">
             The Internet, Organized.<br />
