@@ -51,7 +51,7 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="footer-brand">
           <Link href="/" className="footer-logo">
-            <span className="footer-logo-dot" />web<em>zarf</em>
+            <span className="footer-logo-dot" />Web<em>Zarf</em>
           </Link>
           <p className="footer-tagline">
             The Internet, Organized.<br />
@@ -77,7 +77,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <span className="footer-copy">© {year} WebGrid. All rights reserved.</span>
+        <span className="footer-copy">© {year} WebZarf. All rights reserved.</span>
         <span className="footer-made">Built with Next.js · Deployed on Vercel</span>
         <div className="footer-bl">
           <Link href="/" className="f-link">Privacy</Link>
