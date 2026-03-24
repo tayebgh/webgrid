@@ -368,7 +368,7 @@ img { display: block; }
 /* ═══════════════════════════════════════════════════════════════
    BLOG LIST
 ═══════════════════════════════════════════════════════════════ */
-.blog-wrap { max-width:1100px; margin:0 auto; padding:0 24px 80px; }
+.blog-wrap { max-width:1200px; margin:0 auto; padding:0 24px 80px; }
 .blog-hd { padding:40px 0 32px; display:flex; align-items:flex-end; justify-content:space-between; gap:20px; flex-wrap:wrap; }
 .blog-hd h1 { font-weight:900; font-size:32px; letter-spacing:-.6px; margin-bottom:6px; }
 .blog-hd h1 em { font-style:normal; color:var(--accent); }
